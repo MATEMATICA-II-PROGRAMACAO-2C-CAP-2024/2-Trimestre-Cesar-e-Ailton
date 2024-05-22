@@ -13,5 +13,14 @@ color: var(--branco-principal);
 *{
 margin:0;
 padding:0;
+}
+
+.conteudo-principal{
+  background-image:url("./i371122.jpeg") ;
+  background-repeat: no-repeat;
+}
+
+.container{
+height: 100px;
 
 }
