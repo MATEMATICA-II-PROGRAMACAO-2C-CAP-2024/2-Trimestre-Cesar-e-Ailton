@@ -17,10 +17,14 @@ padding:0;
 
 .conteudo-principal{
   background-image:url("./i371122.jpeg") ;
-  background-repeat: no-repeat;
+  background-repeat:no-repeat;
+  background-size:cover;
 }
-
+.imagem-principal{
+  width: 120px;
+}
 .container{
-height: 100px;
-
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 50% 50%;
 }
