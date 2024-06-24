@@ -27,6 +27,10 @@ padding:0;
   text-align: center;
 }
 
+.imagem-principal{
+  width: 120px;
+}
+
 .container{
   height: 100vh;
   display: grid;
